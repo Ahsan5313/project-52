@@ -471,6 +471,14 @@ img{
 }
 }
 
+@media(max-width:991px){
+
+  h1.home__title {
+    font-size: 25px;
+}
+}
+
+
 /*loader*/
 .loader {
   position: fixed;
