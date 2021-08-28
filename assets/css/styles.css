@@ -471,7 +471,7 @@ img{
 }
 }
 
-@media(max-width:991px){
+@media(max-width:325px){
 
   h1.home__title {
     font-size: 25px;
