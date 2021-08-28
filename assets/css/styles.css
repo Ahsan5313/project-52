@@ -478,6 +478,15 @@ img{
 }
 }
 
+@media(max-width:460px){
+
+  .home__img img {
+    height: 200px;
+    margin: auto;
+}
+}
+
+
 
 /*loader*/
 .loader {
